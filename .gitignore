@@ -1,0 +1,13 @@
+__pycache__/
+.idea/
+pabot_results/
+venv/
+env
+*env
+.env
+*.log
+log.html
+output.xml
+report.html
+*.png
+.DS_Store

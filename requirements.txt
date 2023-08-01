@@ -1,0 +1,6 @@
+robotframework==3.2.2
+robotframework-appiumlibrary
+robotframework-pabot
+robotframework-requests
+testrail-api
+trcli
